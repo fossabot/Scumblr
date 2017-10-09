@@ -1,4 +1,5 @@
 ![Scumblr](http://i.imgur.com/iFgqbrB.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FScumblr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FScumblr?ref=badge_shield)
 # Scumblr
 
 ## What is Scumblr?
@@ -29,3 +30,7 @@ Up to you! You can create simple or complex workflows to be used along with your
 
 Take a look at the [wiki](https://github.com/Netflix/Scumblr/wiki) for detailed instructions on setup, configuration, and use!
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FScumblr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FScumblr?ref=badge_large)
